@@ -1,0 +1,14 @@
+*.log
+*.jou
+*.str
+*.xml
+*.html
+*.xlsx
+*.csv
+*.json
+*.debug/
+*.runs/
+*.cache/
+*.hw/
+*.sim/
+
